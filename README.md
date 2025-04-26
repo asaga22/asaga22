@@ -3,7 +3,6 @@ It's Lharas here! I am a Software Developer based in Indonesia. I have been work
 I have contributed to several Software Development projects from Android to Web based. I mostly enjoy working on a Website Development for either Frontend or Backend.
 
 🔭 I’m currently working on a personal project called AiR Utility Hub. It's basically a website that provides utility tool such as string counter, pdf merger and splitter, etc.
-📫 How to reach me: lharaskinanti@gmail.com
 <!--
 **asaga22/asaga22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
